@@ -1,0 +1,16 @@
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe.config
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.exe
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\bin\Debug\SinavSistemi.pdb
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.AssemblyReference.cache
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmKonular.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmKullanici.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmOgrenci.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmOgretmen.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmSinavSonucu.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmStats.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.frmTest.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.Properties.Resources.resources
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.exe
+C:\Users\90541\Desktop\SinavSistemi\SinavSistemi\obj\Debug\SinavSistemi.pdb
